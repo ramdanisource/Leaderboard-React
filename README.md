@@ -1,4 +1,4 @@
-## Leaderbord Example with React.js
+## Leaderboard Example with React.js
 
 ### **Installation**
 
